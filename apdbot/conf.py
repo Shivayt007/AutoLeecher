@@ -2,8 +2,10 @@ from apdbot.sample_con import Config
 #Fill your all data here Do not Edit other Files
 
 class Config(Config):
-    BOT_TOKEN= ""
-    APP_ID = 
-    API_HASH = ""
-    OWNER_ID = ""
-    AUTH = [556315181, -100088888, -10002252254]
+    BOT_TOKEN = "5233615439:AAHQJg05XRtrcUP1wbEMC_zt9-rPnvdlJIE"
+    APP_ID = 2054877
+    API_HASH = "4227c1e45e462209a3dcc67ada88a44f"
+    AUTH = [-637394831, -1001234567891]
+
+    OWNER_ID = "957158815"
+    
