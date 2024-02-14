@@ -22,19 +22,19 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "hh"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "tt"
     },
     "BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "hg"
     },
     "AUTH": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "value": "hh"
     },
     "CHUNK_SIZE": {
       "description": "should be an integer",
@@ -113,7 +113,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
