@@ -1,1 +1,1 @@
-python3 -m apdbot
+python3 script.py
